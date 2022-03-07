@@ -1,0 +1,45 @@
+.estilo1 {
+  background-color: cornflowerblue;
+}
+
+.estilo2 {
+  background-color: silver;
+}
+
+.estilo3 {
+	
+   font-family:Courier;
+   font-weight:bold;
+   
+   background-color: cadetblue;
+	}
+
+.estilo4 {
+	
+   font-family:Courier;
+   font-weight:bold;
+   
+   background-color: darkslateblue;
+	}
+
+.estilo5 {
+	
+  display: flex;
+  justify-content: center;
+	
+}
+
+.estilo6 {
+	background: #fff; /* color de fondo */
+  color: #4741d7; /* color de fuente */
+  border: 2px solid #4741d7; /* tamaño y color de borde */
+  padding: 16px 20px;
+  border-radius: 3px; /* redondear bordes */
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+	display: flex;
+  justify-content: center;
+}
+
